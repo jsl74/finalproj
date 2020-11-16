@@ -7,7 +7,7 @@ Guangrui Wang - guw18@pitt.edu
 
 Jenny Lee - jsl74@pitt.edu
 
-# Datasets Used
+## Datasets Used
 
 Poverty Status :
 
@@ -18,7 +18,7 @@ Employment Status:
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/d53bfc16-9518-4c5b-b102-847654dabe21
 
 
-# Introduction
+## Introduction
 We used the datasets provided by the WPRDC, we determined the following metrics to measure the best neighborhood in Pittsburgh:
 - Poverty rate
 - Employment rate
@@ -26,7 +26,7 @@ We used the datasets provided by the WPRDC, we determined the following metrics 
 
 The poverty rate would be a reflection of many things in a neighborhood, like public funding. The employment rate is important because no one wants a long commute to work, so if a neighborhood had high employment rates, then there are jobs nearby. Property values were included because
 
-# Metric
+## Metric
 
 
 
