@@ -1,7 +1,7 @@
 # What is the best neighborhood in Pittsburgh?
 JSG
 
-Seonmin Cho - sec171@pitt.edu
+Seon Min Cho - sec171@pitt.edu
 
 Guangrui Wang - guw18@pitt.edu
 
@@ -17,6 +17,9 @@ Employment Status:
 
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/d53bfc16-9518-4c5b-b102-847654dabe21
 
+Property Value:
+https://data.wprdc.org/datastore/dump/5bbe6c55-bce6-4edb-9d04-68edeb6bf7b1
+
 
 ## Introduction
 We used the datasets provided by the WPRDC, we determined the following metrics to measure the best neighborhood in Pittsburgh:
@@ -24,7 +27,8 @@ We used the datasets provided by the WPRDC, we determined the following metrics 
 - Employment rate
 - Property values
 
-The poverty rate would be a reflection of many things in a neighborhood, like public funding. The employment rate is important because no one wants a long commute to work, so if a neighborhood had high employment rates, then there are jobs nearby. Property values were included because
+The poverty rate would be a reflection of many things in a neighborhood, like public funding. The employment rate is important because no one wants a long commute to work, so if a neighborhood had high employment rates, then there are jobs nearby. Property values were included because it represents the overall living conditions/neighbors based off of financial status.  
+
 
 ## Metric
 
@@ -36,3 +40,7 @@ After the analysis, I find Northview Heights has the highest poverty rate. Since
 
 ## Jenny Lee's Conclusion
 Excluding the business districts, the best neighborhood was xxx. Guangrui's best neighborhood was Swisshelm Park, which was #36 based on my metric. Seonmin's best neighborhood was xxx, which was xx in my neighborhood.
+
+## Seon Min Cho's Conclusion
+
+
