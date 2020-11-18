@@ -33,7 +33,9 @@ The poverty rate would be a reflection of many things in a neighborhood, like pu
 
 ## Metric
 
+We defined the best neighborhood as the neighborhood with a best economic that repeated in these three analysis.
 
+Which is the neighborhood have **lowest poverty rate**, **highest employment rate** and **highest property value**
 
 ## Guangrui Wang's Conclusion
 
