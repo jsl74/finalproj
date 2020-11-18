@@ -45,3 +45,4 @@ Excluding the business districts, the best neighborhood was **Fairywood**. Guang
 ## Seon Min Cho's Conclusion
 Based on the results of my analysis, **North Fayette** is the best neighborhood in Pittsburgh as they have the highest average property value based on property sales made from years 2012 to 2020. Property values explicitly represent the monetary worth of properties and can also reflect on the quality of life of the said property as the value directly correlates with demand. 
 
+## Best Overall Neighborhood
