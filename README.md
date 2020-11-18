@@ -1,11 +1,12 @@
 # What is the best neighborhood in Pittsburgh?
 JSG
 
-Seon Min Cho - sec171@pitt.edu
-
 Guangrui Wang - guw18@pitt.edu
 
 Jenny Lee - jsl74@pitt.edu
+
+
+Seon Min Cho - sec171@pitt.edu
 
 ## Datasets Used
 
